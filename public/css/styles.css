@@ -1,9 +1,7 @@
 body {
   color: #333333;
   font-family: arial;
-  max-width: 650px;
-  margin: 0 auto;
-  padding: 0 16px;
+  width: 100%;
 
   display: flex;
   min-height: 100vh;
@@ -49,9 +47,13 @@ header a {
 
 .message-1 {
   color: blueviolet;
-  font-size: 48px;
+  font-size: 32px;
 }
 .message-2 {
   color: blueviolet;
-  font-size: 48px;
+  font-size: 32px;
+}
+#myP {
+  color: blueviolet;
+  font-size: 32px;
 }
